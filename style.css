@@ -1,0 +1,25 @@
+body {
+  background-color: burlywood;
+  color: #026e34;
+  padding: 10px;
+}
+
+#picture{
+  float:left;
+  
+}
+
+#description{
+  float:right;
+  padding: top;
+}
+
+#reviews{
+  clear: both;
+  float: left;
+  
+}
+
+#name {
+  size:20px
+}
